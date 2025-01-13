@@ -61,9 +61,11 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.32f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CometaMovimiento.cs" />
     <Compile Include="Assets\Scripts\Globo.cs" />
-    <Compile Include="Assets\Scripts\BoingSound.cs" />
+    <Compile Include="Assets\Scripts\FantasmaMovimiento.cs" />
     <Compile Include="Assets\Scripts\NewMonoBehaviourScript.cs" />
+    <Compile Include="Assets\Scripts\Obstaculos.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
